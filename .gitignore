@@ -1,0 +1,4 @@
+*.npz
+code/my_outputs_*/
+__pycache__/
+*.pyc
